@@ -4,6 +4,7 @@ env.py
 __pycache__
 .vscode/
 *.csv
+*.txt
 *.json
 *.xlsx
 *.zip
